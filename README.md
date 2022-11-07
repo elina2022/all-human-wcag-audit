@@ -1,21 +1,14 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Titel
+Accessibility review 
 
+## Beschrijving
 
-# WCAG Audit 
+Tijdens dit miniproject heb ik gekeken naar de toegankelijkheid van www.smashingmagazine.com . Screenshot van de website hieronder.
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+![image](https://user-images.githubusercontent.com/112861148/200412048-a4cab134-5129-4a00-8d85-7563d0a4606d.png)
 
-## Titel Website
+Voor het testen van de toegankelijkheid van de bovengenoemde website heb ik onder andere gebruik gemaakt van de extensie 'Lighthouse'. Hieronder een foto van de resultaten daarvan.
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+![image](https://user-images.githubusercontent.com/112861148/200411439-a85176d4-6ad5-4103-b894-a4f19ac2ffa7.png)
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+Ik ben erachter gekomen dat de accessibility van Smashing Magazine op een paar punten na wel in orde is.
